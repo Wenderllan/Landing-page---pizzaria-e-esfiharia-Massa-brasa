@@ -8,7 +8,9 @@ O projeto foi criado com foco em uma experiência simples e agradável para o cl
 
 Acesse a versão publicada:
 
-https://wenderllan.github.io/massa-e-brasa/
+wenderllan.github.io/Landing-page---pizzaria-e-esfiharia-Massa-brasa/
+
+![Página inicial da Massa & Brasa](assets/preview-massa-e-brasa.png)    
 
 ## 🚀 Funcionalidades
 
